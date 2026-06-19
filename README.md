@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Paul, a games PM/Analyst/Data Scientist learning more about how to actually develop games!
+
+Currently working on a farming idler sim to learn some basic design principal. Have a look and let me know what you think!
+
 <!--
 **paulgioeli1/paulgioeli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
